@@ -53,10 +53,10 @@
 - **Project Name**: Crystara
 - **Overview**: NFT Launchpad & Marketplace with Blind Box Mechanics to spark life into Supra's NFT Ecosystem.
 - **Key Features**:
-  - NFT collection blind boxes with rarities
-  - Optional NFT regular mints with no frills 
-  - NFT collection creation system (Launchpad)
-  - NFT marketplace (Buy & Sell)
+  - Creators can launch their NFT collections on our NFT Launchpad; With different rarities and chances; With each item having different max supply
+  - Lootbox mechanics for people to roll immediately after creator launches the collection
+  - Rarity based mints, with rolling animations
+  - NFT Marketplace Listings (Soon)
 - **Target Audience**: NFT Creators, NFT Collectors, Game Companies, Gatcha Gamers, Skin Collectors, Traders, Blind Box Community.
 
 ---
