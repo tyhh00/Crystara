@@ -65,7 +65,7 @@
 - **System Architecture Diagram**:  
   ![System Architecture](https://raw.githubusercontent.com/tyhh00/Crystara/main/images/Server%20Architecture.png)
 - **User Flow Diagram**:  
-  ![User Flow](https://imgur.com/sVn3avf)
+  ![User Flow](https://raw.githubusercontent.com/tyhh00/Crystara/main/images/User%20Flow.png)
 
 ---
 
