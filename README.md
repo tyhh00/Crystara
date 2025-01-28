@@ -16,6 +16,7 @@
   - [Yong's Twitter](https://x.com/tyhho0)
 - **Crystara Main Links**:
   - [Website](https://crystara.trade/)
+  - [Hungry Hippos X - Lootbox on Testnet](https://crystara.trade/marketplace/hungryhipposx)
   - [Twitter](https://x.com/CrystaraMarkets)
 - **Crystara Repositories**:
   - [Crystara Frontend](https://github.com/tyhh00/BlindBox_ProductionSite)
