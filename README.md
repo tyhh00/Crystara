@@ -56,7 +56,8 @@
   - Creators can launch their NFT collections on our NFT Launchpad; With different rarities and chances; With each item having different max supply
   - Lootbox mechanics for people to roll immediately after creator launches the collection
   - Rarity based mints, with rolling animations
-  - NFT Marketplace Listings (Soon)
+  - NFT Marketplace
+  - NFT Inventory Viewer
 - **Target Audience**: NFT Creators, NFT Collectors, Game Companies, Gatcha Gamers, Skin Collectors, Traders, Blind Box Community.
 
 ---
