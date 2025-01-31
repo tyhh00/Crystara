@@ -5,7 +5,7 @@
 ## 1. Team Introduction
 - **Team Name**: Crystara
 - **Team Members**:
-  - Yong - Founder, Developer - Handling frontend, backend and blockchain development. Managing social media and business relations with key partners.
+  - Yong - Founder, Developer - Handling frontend, backend and blockchain development. Managing social media and business relations with key partners. App tester
 - **Team Mission**: Delivering the next generation NFT Marketplace on Supra. 
 
 ---
